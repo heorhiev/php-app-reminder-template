@@ -1,0 +1,7 @@
+{
+  "appName": "reminder",
+  "spreadsheetsUrl": "",
+  "apiKeyPath": "{@configPath}/reminder/google_key.json",
+  "sheetId": "",
+  "listName": "duty_line"
+}
