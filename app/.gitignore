@@ -2,3 +2,4 @@
 /vendor
 /.idea
 composer.lock
+extensions-local.php

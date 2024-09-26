@@ -1,11 +1,21 @@
 {
     "require": {
-        "heorhiev/php-app-toolkit": "dev-master"
+        "heorhiev/php-app-toolkit": "dev-master",
+        "heorhiev/php-app-reminder": "dev-master"
     },
+    "minimum-stability": "dev",
     "repositories": [
         {
             "type": "vcs",
             "url": "https://github.com/heorhiev/php-app-toolkit.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/heorhiev/php-app-reminder.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/heorhiev/php-app-google-sheets.git"
         }
     ]
 }

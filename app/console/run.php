@@ -2,4 +2,4 @@
 
 include '../load.php';
 
-new app\Console($argv);
+new app\toolkit\Console(isset($_GET['action']) ? $_GET['action'] : $argv[1]);
